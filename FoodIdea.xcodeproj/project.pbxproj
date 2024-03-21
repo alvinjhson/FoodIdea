@@ -16,6 +16,7 @@
 		52F4DC1D2BA9B04700F2CA1C /* FoodIdeaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F4DC1C2BA9B04700F2CA1C /* FoodIdeaTests.swift */; };
 		52F4DC272BA9B04700F2CA1C /* FoodIdeaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F4DC262BA9B04700F2CA1C /* FoodIdeaUITests.swift */; };
 		52F4DC292BA9B04700F2CA1C /* FoodIdeaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F4DC282BA9B04700F2CA1C /* FoodIdeaUITestsLaunchTests.swift */; };
+		52F4DC382BA9C91100F2CA1C /* AddFoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F4DC372BA9C91100F2CA1C /* AddFoodViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		52F4DC222BA9B04700F2CA1C /* FoodIdeaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodIdeaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52F4DC262BA9B04700F2CA1C /* FoodIdeaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodIdeaUITests.swift; sourceTree = "<group>"; };
 		52F4DC282BA9B04700F2CA1C /* FoodIdeaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodIdeaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		52F4DC372BA9C91100F2CA1C /* AddFoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFoodViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				52F4DC0E2BA9B04700F2CA1C /* Assets.xcassets */,
 				52F4DC102BA9B04700F2CA1C /* LaunchScreen.storyboard */,
 				52F4DC132BA9B04700F2CA1C /* Info.plist */,
+				52F4DC372BA9C91100F2CA1C /* AddFoodViewController.swift */,
 			);
 			path = FoodIdea;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				52F4DC0A2BA9B04500F2CA1C /* ViewController.swift in Sources */,
 				52F4DC062BA9B04500F2CA1C /* AppDelegate.swift in Sources */,
+				52F4DC382BA9C91100F2CA1C /* AddFoodViewController.swift in Sources */,
 				52F4DC082BA9B04500F2CA1C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
